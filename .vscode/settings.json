@@ -1,0 +1,29 @@
+{
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.fontLigatures": true,
+    "editor.renderWhitespace": "boundary",
+    "editor.bracketPairColorization.enabled": false,
+    "editor.guides.bracketPairs": "active",
+    "workbench.colorCustomizations": {
+        "editorBracketPairGuide.activeBackground1": "#F40000",
+        "editorBracketPairGuide.activeBackground2": "#F40000",
+        "editorBracketPairGuide.activeBackground3": "#F40000",
+    },
+    "diffEditor.ignoreTrimWhitespace": false,
+    "git.autofetch": "all",
+    "git.suggestSmartCommit": false,
+    "gitlens.codeLens.enabled": false,
+    "notebook.lineNumbers": "on",
+    "output.smartScroll.enabled": false,
+    "editor.smoothScrolling": true,
+    "editor.stickyScroll.enabled": true,
+    "editor.inlineSuggest.enabled": true,
+    "workbench.colorTheme": "Default Dark+",
+    "editor.formatOnSave": true,
+    "rust-analyzer.check.command": "clippy",
+    "rust-analyzer.linkedProjects": [
+        "Rust Book experiment/Chapter 13/closures/Cargo.toml",
+        "Rust Book experiment/Chapter 13/iterators/Cargo.toml",
+        "Rust Book experiment/Chapter 13/better_minigrep/Cargo.toml"
+    ]
+}
